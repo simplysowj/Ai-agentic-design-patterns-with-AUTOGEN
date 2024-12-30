@@ -395,7 +395,7 @@ def main():
                         st.experimental_rerun()
 
     # Main content
-    st.markdown('<h1 class="stock-header">🤖 Advanced Stock Market Analysis By Shivam Shukla</h1>', 
+    st.markdown('<h1 class="stock-header">🤖 Advanced Stock Market Analysis By Sowjanya</h1>', 
                 unsafe_allow_html=True)
     
     # Search and Analysis Section
