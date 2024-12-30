@@ -1,4 +1,4 @@
-First Of All A Big Thanks To Krish Naik Sir!
+
 
 # **🌟 Financial Agentic AI: Your Ultimate Stock Market Companion 🌟**  
 
