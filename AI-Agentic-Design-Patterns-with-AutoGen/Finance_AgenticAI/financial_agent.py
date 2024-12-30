@@ -42,7 +42,7 @@ COMMON_STOCKS = {
 
 # Page configuration
 st.set_page_config(
-    page_title="Advanced Stock Market Analysis",
+    page_title="Advanced Stock Market Analysis by Sowjanya",
     page_icon="📈",
     layout="wide",
     initial_sidebar_state="expanded"
