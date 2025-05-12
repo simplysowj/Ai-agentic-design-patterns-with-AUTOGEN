@@ -1,4 +1,4 @@
-First Of All A Big Thanks To Krish Naik Sir!
+
 
 # **🌟 Financial Agentic AI: Your Ultimate Stock Market Companion 🌟**  
 
@@ -43,6 +43,7 @@ First Of All A Big Thanks To Krish Naik Sir!
 ---
 
 ## **🔍 How It Works**  
+https://standupcomedypy-432l4i3vqhyktajrtwr2iq.streamlit.app/ 
 
 1. **Agent-Based Architecture**:  
    - Build highly specialized AI agents using the `phi.agent` framework.  
